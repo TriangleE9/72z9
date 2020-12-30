@@ -97,7 +97,7 @@
 
 
 
-function zbh()
+/*function zbh()
 {
         alert("面壁者章北海你好");
         alert("我是你的破壁人");
@@ -106,4 +106,4 @@ function zbh()
 
 
 }
-
+*/
